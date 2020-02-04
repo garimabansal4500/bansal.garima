@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_170382_loaner_re.loaner_request_user" name="x_170382_loaner_re.loaner_request_user">f266c8491b72001079ca7596cc4bcb2e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Garima.bansal</sys_created_by>
+        <sys_created_on>2020-02-04 06:53:06</sys_created_on>
+        <sys_id>b266c8491b72001079ca7596cc4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f266c8491b72001079ca7596cc4bcb2e</sys_name>
+        <sys_package display_value="Loaner Request" source="x_170382_loaner_re">98da73e81bbac01079ca7596cc4bcb09</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">98da73e81bbac01079ca7596cc4bcb09</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b266c8491b72001079ca7596cc4bcb33</sys_update_name>
+        <sys_updated_by>Garima.bansal</sys_updated_by>
+        <sys_updated_on>2020-02-04 06:53:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
